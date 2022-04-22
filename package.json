@@ -5,7 +5,7 @@
   "description": "Various utility functions for authoring stars with realistic properties, as well as a star shader made in Shader Graph.",
   "unity": "2020.3",
   "dependencies": {
-    "com.jimmycushnie.noisynodes": "https://github.com/JimmyCushnie/Noisy-Nodes.git"
+    "com.jimmycushnie.noisynodes": "https://github.com/JimmyCushnie/Noisy-Nodes.git#1.1.0"
   },
   "keywords": [
     "space",
