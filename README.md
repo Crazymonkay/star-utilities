@@ -1,6 +1,8 @@
 # Star Utilities
 Various utilities for authoring stars with realistic properties in Unity. Includes utility functions and a star shader.
 
+Take a look at my dev blog if you are interested in more details: https://roadturtlegames.com/planetguard/blogs/blog-3.html
+
 # Dependencies
 The shader included in this package depends on the Noisy Nodes package: https://github.com/JimmyCushnie/Noisy-Nodes
 
