@@ -1,0 +1,15 @@
+{
+  "name": "com.roadturtlegames.starutilities",
+  "version": "1.0.0",
+  "displayName": "Star Utilities",
+  "description": "Various utility functions for authoring stars with realistic properties, as well as a star shader made in Shader Graph.",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.jimmycushnie.noisynodes": "1.1.0"
+  },
+  "keywords": [
+    "space",
+    "star",
+    "shader"
+  ]
+}

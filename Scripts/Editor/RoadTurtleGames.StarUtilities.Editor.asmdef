@@ -1,0 +1,16 @@
+{
+    "name": "StarUtilitiesEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1bf6d399ceb69fd4381904af4a36dba6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
